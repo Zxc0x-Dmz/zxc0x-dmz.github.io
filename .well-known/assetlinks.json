@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.zxc0x_dmz.stocks",
+        "sha256_cert_fingerprints": ["F3:9E:D9:97:55:D9:36:41:7B:DF:D2:E0:A5:32:6F:DF:2C:BE:5B:DA:97:FC:03:7B:52:A8:CD:9E:9A:13:CD:FA"]
+      }
+    }]
